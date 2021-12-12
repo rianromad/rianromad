@@ -16,8 +16,8 @@ I hope you can find useful stuff here 😉
 - Data science
 
 ### 📫 How to reach me: 
-- [linkedin](https://www.linkedin.com/in/subkhanrian/)
-- [email](mailto:rianromadhon4@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/subkhanrian/)
+- [Email](mailto:rianromadhon4@gmail.com)
 
 <!-- **rianromad/rianromad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
