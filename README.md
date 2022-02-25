@@ -24,9 +24,6 @@ I hope you can find useful stuff here 😉
 ### ☕ My popular repositories:
 - [Python For Industrial Engineering](https://github.com/rianromad/Python-for-Industrial-Engineering)
 - [Python For Industrial Engineering (English Version)](https://github.com/rianromad/Python-For-Industrial-Engineering-Eng-Version-)
-- [Sanbercode - Python Data Science](https://github.com/rianromad/Sanbercode-training)
-- [Dicoding](https://github.com/rianromad/Dicoding-Project)
-
 
 <!--
 ### :computer: My learning progress..
