@@ -10,7 +10,7 @@ I hope you can find useful stuff here 😉
 - Industrial Engineering Student
 
 ### 🌱 I’m currently learning: 
-- Optimization
+- Supply Chain Optimization
 - Operation Research
 - Machine learning
 - Data science
