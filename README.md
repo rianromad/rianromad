@@ -24,6 +24,8 @@ I hope you can find useful stuff here 😉
 ### ☕ My popular repositories:
 - [Python For Industrial Engineering](https://github.com/rianromad/Python-for-Industrial-Engineering)
 - [Python For Industrial Engineering (English Version)](https://github.com/rianromad/Python-For-Industrial-Engineering-Eng-Version-)
+- [Anime Recommendation Systems (Indonesian Version)](https://github.com/rianromad/Anime-Recommendation-System)
+- [Walmart Sales Forecasting](https://github.com/rianromad/Walmart-Sales-Forecasting)
 
 <!--
 ### :computer: My learning progress..
